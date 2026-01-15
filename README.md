@@ -51,8 +51,7 @@ This repository contains **complete Python material** for the subject
 ---
 
 ## 👨‍🏫 Instructor
-**Asad Raza Malik**  
-PhD Scholar – Central South University, China  
+**Dr. Asad Raza Malik**    
 Senior IT Assistant – MUET SZAB Campus  
 
 ---
